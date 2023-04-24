@@ -1,0 +1,1 @@
+print("pkg/__main__")
